@@ -1,4 +1,4 @@
- #include <ICSC.h>
+ #include <ICSC.h>  (Direitos autorais (c) 2013, Majenko Technologies)
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(4,5);
