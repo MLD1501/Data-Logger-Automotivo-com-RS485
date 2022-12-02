@@ -1,9 +1,8 @@
  //I2C SLAVE CODE
 //Comunicação I2C entre dois Arduino
-//só recebe
 
 #include<Wire.h> 
-#include <ICSC.h> //ICSC Library --> (Direitos autorais (c) 2013, Majenko Technologies)
+#include <ICSC.h> // ICSC Library --> (Direitos autorais (c) 2013, Majenko Technologies) -->https://github.com/MajenkoLibraries/ICSC
  
 #define ADDR_MASTER  0
 #define ADDR_SLAVE   4  //Replace with the number ID of slave
