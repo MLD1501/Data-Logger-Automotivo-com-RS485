@@ -1,4 +1,4 @@
-#include <ICSC.h>   //ICSC Library --> (Direitos autorais (c) 2013, Majenko Technologies)
+#include <ICSC.h>   // ICSC Library --> (Direitos autorais (c) 2013, Majenko Technologies) -->https://github.com/MajenkoLibraries/ICSC
  
 #define ADDR_MASTER  0
 #define ADDR_SLAVE   3   //Replace with the number ID of slave
